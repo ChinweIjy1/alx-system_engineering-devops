@@ -9,3 +9,4 @@ Shell Permissions
 7-Add a script that allows all to execute
 8-Add a script that gives permission to only users
 9-Add a script that gives custom permission to user hello
+10-A script that gives two files same mode
