@@ -11,3 +11,4 @@ Shell Permissions
 9-Add a script that gives custom permission to user hello
 10-A script that gives two files same mode
 11-A script that adds execute permission to subdirectories
+12-Creating a directory with permmissions 751
