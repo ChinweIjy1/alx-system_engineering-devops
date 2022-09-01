@@ -6,3 +6,4 @@ Shell Permissions
 4-Add a script that creates an empty file called hello
 5-Add a script that adds execute permission to the owner of the file hello
 6-Add a script that execute multiple permission
+7-Add a script that allows all to execute
