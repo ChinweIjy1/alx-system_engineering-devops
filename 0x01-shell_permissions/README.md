@@ -7,3 +7,4 @@ Shell Permissions
 5-Add a script that adds execute permission to the owner of the file hello
 6-Add a script that execute multiple permission
 7-Add a script that allows all to execute
+8-Add a script that gives permission to only users
