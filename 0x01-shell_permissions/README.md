@@ -5,3 +5,4 @@ Shell Permissions
 3-Add a script that changes the owner of the file hello to the user betty
 4-Add a script that creates an empty file called hello
 5-Add a script that adds execute permission to the owner of the file hello
+6-Add a script that execute multiple permission
