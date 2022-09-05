@@ -24,3 +24,4 @@ Add a script that displays all users and their home directories, sorted by users
 a command that finds all empty files and directories in the current directory and all sub-directories
 Add case sensitive
 a script that decodes acrostics that use the first letter of each line
+A script that parses web servers
