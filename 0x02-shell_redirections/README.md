@@ -13,3 +13,4 @@ Add script that counts the number of directories and sub-directories
 Add  a script that displays the 10 newest files in the current directory
 Add a script that takes a list of words as input and prints only words that appear exactly once
 Add a script that Display lines containing the pattern “root” from the file
+Add a script Display the number of lines that contain the pattern “bin” in the file /etc/passwd
