@@ -9,3 +9,4 @@ Add  a shell script that creates a file and ending by a new line
 Add script that writes into the file
 Add script that duplicates the last line of the file iacta
 Add a script to Use only find
+Add script that counts the number of directories and sub-directories
