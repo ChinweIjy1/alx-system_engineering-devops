@@ -17,3 +17,4 @@ Add a script Display the number of lines that contain the pattern “bin” in t
 Add a script Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 Add ascript that Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
 Add a script Display all lines of the file
+Add a script that Replace all characters A and c from input to Z and e respectively
