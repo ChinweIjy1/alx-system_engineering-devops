@@ -21,3 +21,4 @@ Add a script that Replace all characters A and c from input to Z and e respectiv
 Add a script that removes all letters c and C from input
 Add a script that reverse its input
 Add a script that displays all users and their home directories, sorted by users
+a command that finds all empty files and directories in the current directory and all sub-directories
