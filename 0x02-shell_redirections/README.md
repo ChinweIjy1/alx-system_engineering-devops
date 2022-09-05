@@ -20,3 +20,4 @@ Add a script Display all lines of the file
 Add a script that Replace all characters A and c from input to Z and e respectively
 Add a script that removes all letters c and C from input
 Add a script that reverse its input
+Add a script that displays all users and their home directories, sorted by users
