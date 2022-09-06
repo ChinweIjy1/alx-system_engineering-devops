@@ -5,3 +5,4 @@ Add a script that add /action to PATH
 A script that counts the number of directories in the PATH
 A script that list environment variables
 A script that lists all local varialbes, environment variables and functions
+A script that creates a new local variable
