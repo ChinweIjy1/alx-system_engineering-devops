@@ -9,3 +9,4 @@ A script that creates a new local variable
 A script that creates a new global variable
 A script that prints the result of the addition
 A script that prints the result of POWER divided by DIVIDE
+A script that prints the result of BREATH to the power of LOVE
