@@ -1,14 +1,14 @@
 # SSH client configuration to use the private key ~/.ssh/school
 # SSH client configuration to refuse to authenticate using a password
 
-Host 54.82.4.93
+Host 54.90.5.221
      PasswordAuthentication no
      IdentityFile ~/.ssh/school
 
-Host 35.153.79.156
+Host 3.86.7.171
      PasswordAuthentication no
      IdentityFile ~/.ssh/school
 
-Host 35.153.83.53
+Host 100.26.142.171
      PasswordAuthentication no
      IdentityFile ~/.ssh/school
